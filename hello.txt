@@ -1,7 +1,3 @@
 Hello GitHub
-<<<<<<< HEAD
 
 shizuka & nobita
-=======
-nobota
->>>>>>> nobita
